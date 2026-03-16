@@ -212,7 +212,7 @@ function startScene5() {
     // Epic emoji explosion
     createHugExplosion();
 
-    typeWriter(finaleText, "I Love You More Than Words Can Say 💖", 60, () => {
+    typeWriter(finaleText, "I Love You More Than Words Can Say. Please Forgive Me My Sona 🥺🫶", 60, () => {
         setTimeout(() => {
             finaleSub.classList.add('visible');
         }, 500);
